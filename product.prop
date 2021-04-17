@@ -9,3 +9,7 @@ ro.sf.blurs_are_expensive=1
 
 # Google Assistant
 ro.opa.eligible_device=true
+
+# Fluid specific props
+ro.fluid.maintainer=rounak1619
+ro.fluid.cpu=SDM865
