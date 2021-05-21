@@ -1,1 +1,3 @@
 binder_call(cameraserver, hal_cameraHIDL_default)
+allow cameraserver fluid_data_file:file rw_file_perms;
+allow cameraserver fluid_data_file:dir write;
