@@ -1,0 +1,2 @@
+allow system_server fluid_data_file:file r_file_perms;
+
